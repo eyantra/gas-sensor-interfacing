@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GasSensorInterfacing", "GasSensorInterfacing\GasSensorInterfacing.cproj", "{00DF3F05-833F-4BBE-B84B-BAF423789EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DF3F05-833F-4BBE-B84B-BAF423789EFA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{00DF3F05-833F-4BBE-B84B-BAF423789EFA}.Debug|AVR.Build.0 = Debug|AVR
+		{00DF3F05-833F-4BBE-B84B-BAF423789EFA}.Release|AVR.ActiveCfg = Release|AVR
+		{00DF3F05-833F-4BBE-B84B-BAF423789EFA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
